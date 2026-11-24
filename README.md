@@ -39,8 +39,7 @@ Based on Gini importance metrics from the tuned Decision Tree model, **`foundati
 ```
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone(https://github.com/Tilly-11/Post-Earthquake-Building-Damage-Prediction.git)
 2. Install Dependencies
 Make sure you have Python 3.8+ installed. Install the required libraries:
 
