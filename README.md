@@ -36,3 +36,22 @@ Based on Gini importance metrics from the tuned Decision Tree model, **`foundati
 ├── requirements.txt            # Package dependencies
 ├── .gitignore                  # Python repository filters
 └── README.md                   # Project documentation
+```
+🚀 Getting Started
+1. Clone the Repository
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+cd YOUR_REPOSITORY_NAME
+2. Install Dependencies
+Make sure you have Python 3.8+ installed. Install the required libraries:
+
+pip install -r requirements.txt
+3. Run the Pipeline
+You can explore the full interactive code pipeline by opening the Jupyter Notebook:
+
+jupyter notebook notebooks/damage_prediction.ipynb
+
+🧰 Built With
+Scikit-Learn - Machine learning modeling and pipelines
+Category Encoders - For categorical-to-numeric data preprocessing
+Pandas & NumPy - Data manipulation and engineering
+Matplotlib & Seaborn - Analytical visualizations
