@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPYNB checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Data directory (suggested to keep raw datasets out of git tracking)
+data/*.csv
